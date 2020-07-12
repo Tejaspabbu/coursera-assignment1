@@ -50,8 +50,8 @@ body
    	margin-top:40px;
    	clear:both;
     font-weight:200;
-    font-family:initial;
-    font-size:115%;
+    font-family:inherit;
+    font-size:105%;
    }
 
    .row {
